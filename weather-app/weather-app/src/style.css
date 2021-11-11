@@ -1,0 +1,37 @@
+
+body {
+  background-image: url("https://i.pinimg.com/564x/e8/7c/03/e87c03b8f0c152da47c4bb3796286b07.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.btn:focus {
+  outline: none;
+  background-color: transparent;
+}
+form {
+    margin-top: 8rem;
+  }
+  
+  form input[name="city"],
+  form input[name="country"] {
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+  }
+  .container {
+    margin-top: 1.2rem;
+  }
+  
+  .container input,
+  .container ::-webkit-input-placeholder {
+    color: white !important;
+  }
+  .container input:focus {
+    background-color: transparent;
+    box-shadow: none !important;
+    border: none;
+    border-bottom: 2px solid orangered;
+  }
