@@ -22,7 +22,7 @@
 
   * The app displayed showing the weather forecast
   
-   ![Weather forecast](https://github.com/Josiah-Sithole/Capstone2-/blob/main/images/homepage.png)
+   ![Weather forecast](https://github.com/Josiah-Sithole/weather-app/blob/main/images/weatherImage.PNG)
  
   ## Contact
 
