@@ -26,7 +26,7 @@
  
   ## Contact
 
-  * [Email(sitholejosiah7@gmail.com)]
+  * (sitholejosiah7@gmail.com)
   
   * [Phone number](+27603191619)
 
